@@ -19,6 +19,7 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
+!bin/Release/net8.0/win-x64/publish/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
